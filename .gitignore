@@ -1,0 +1,7 @@
+service.cert
+service.key
+ca.pem
+test.log
+log.txt
+logs
+cmd
